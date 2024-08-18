@@ -1,15 +1,27 @@
-# qr-cord
+# QR-cord
+QR-cord is a discord bot that generates QR codes on demand.
 
-To install dependencies:
+## Installation
+1. Clone the repository:
+```bash
+    git clone https://github.com/qr-cord/qr-cord.git
+```
+2. To install dependencies:
 
 ```bash
 bun install
 ```
 
-To run:
+3. To run:
 
 ```bash
 bun run index.ts
 ```
 
-This project was created using `bun init` in bun v1.1.20. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+## Technologies Used
+- Bun
+- TypeScript
+- Discord.js
+
+## License
+MIT
