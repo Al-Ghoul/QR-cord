@@ -19,9 +19,9 @@ bun run index.ts
 ```
 
 ## Technologies Used
-- Bun
-- TypeScript
-- Discord.js
+- [TypeScript](https://www.typescriptlang.org/)
+- [Bun](https://bun.sh/)
+- [Discord.js](https://discord.js.org/)
 
 ## License
 MIT
